@@ -8,7 +8,7 @@
 
 <h4 align="left">Currently working and learning with:</h3>
 
-<h5  align="left" >Front-End-Development </h5>
+<h5  align="left" >Web-Development </h5>
 <h6 align="left">Front-End </h6>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
