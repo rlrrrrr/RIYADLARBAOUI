@@ -7,7 +7,7 @@
 Hello, My name is Riyad , i'm student at university and technological institue of Aix-en-Provence in the IT department.
 
 I like to keep up to date with new technology that comes out and test some of them that I find interesting.
-At the moment, I'm interested in cloud related technologies such as docker, aws services... 
+At the moment, I'm interested in cloud related technologies such as docker, aws services... <br>
 It's an area I find interesting.
 Otherwise, I also like web and application development, algorithms, mathematics and networks.
 Apart from that I also like animals 🐐 <br>
@@ -20,7 +20,7 @@ and also soccer ⚽. <br>
 <h3 align="left">Languages and Tools:</h3>
 
 
-<h4 align="left">Currently working and learning with:</h3>
+<h4 align="left">Currently learning and working with:</h3>
 
 <h5  align="left" >Web-Development </h5>
 <h6 align="left">Front-End </h6>
