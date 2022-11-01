@@ -84,6 +84,8 @@ and also soccer ⚽. <br>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=riyadlarbaoui&count_private=true" alt="riyadlarbaoui" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyadlarbaoui&theme=dark&show_icons=true&count_private=true" alt="riyadlarbaoui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadlarbaoui&" alt="riyadlarbaoui" /></p>
