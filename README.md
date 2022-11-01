@@ -86,6 +86,8 @@ and also soccer ⚽. <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyadlarbaoui&show_icons=true&locale=en&layout=compact" alt="riyadlarbaoui" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=riyadlarbaoui&theme=dark&show_icons=true" alt="riyadlarbaoui" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyadlarbaoui&show_icons=true&locale=en" alt="riyadlarbaoui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadlarbaoui&" alt="riyadlarbaoui" /></p>
