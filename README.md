@@ -84,15 +84,8 @@ and also soccer ⚽. <br>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=riyadlarbaoui&count_private=true" alt="riyadlarbaoui" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=riyadlarbaoui&count_private=true&show_icons=true&theme=dark" alt="riyadlarbaoui" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyadlarbaoui&count_private=true" alt="riyadlarbaoui" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadlarbaoui&" alt="riyadlarbaoui" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadlarbaoui&label=Profile%20views&color=0e75b6&style=flat" alt="riyadlarbaoui" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyadlarbaoui" alt="riyadlarbaoui" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
