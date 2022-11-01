@@ -84,10 +84,10 @@ and also soccer ⚽. <br>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=riyadlarbaoui&count_private=true&show_icons=true&theme=dark" alt="riyadlarbaoui" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=riyadlarbaoui&count_private=true&show_icons=true&theme=dark" alt="riyadlarbaoui" /> </p>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 <a href="https://www.codewars.com/users/Rrrrrre">Code Wars Profile</a>
