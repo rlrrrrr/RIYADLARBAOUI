@@ -85,19 +85,7 @@ and also soccer ⚽. <br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=riyadlarbaoui&count_private=true&show_icons=true&theme=dark" alt="riyadlarbaoui" /> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div> </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
