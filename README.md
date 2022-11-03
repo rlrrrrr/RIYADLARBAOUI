@@ -52,7 +52,7 @@ and also soccer ⚽. <br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://github.com/numpy/numpy/blob/master/branding/icons/numpylogo.svg" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/> </a> 
 
 
 <h4 align="left">technology I would like to learn </h4>
