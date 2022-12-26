@@ -81,11 +81,13 @@ and also soccer ⚽. <br>
 <h5 align="left">Cloud</h5>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>   
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>    
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>    
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=riyadlarbaoui&count_private=true&show_icons=true&theme=dark" alt="riyadlarbaoui" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>    
+</p>      
 <a href="https://www.codewars.com/users/Rrrrrre">Code Wars Profile</a>
