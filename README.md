@@ -73,6 +73,8 @@ and also soccer ⚽. <br>
 <h5  align="left" >Language Development</h5>
 <p align="left"> 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+<h5  align="left">Application Development</h5>
+<p align="left"> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://quarkus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/quarkus-icon.svg" alt="quarkus" width="40" height="40"/> </a>
 
@@ -87,5 +89,6 @@ and also soccer ⚽. <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=riyadlarbaoui&count_private=true&show_icons=true&theme=dark" alt="riyadlarbaoui" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>        
+</p>
+<br>
 <a href="https://www.codewars.com/users/Rrrrrre">Code Wars Profile</a>
