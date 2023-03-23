@@ -69,14 +69,11 @@ and also soccer ⚽. <br>
  
 <h6 align="left">Back-End </h6>
 <p align="left">
-
+<a href="https://quarkus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/quarkus-icon.svg" alt="quarkus" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <h5  align="left" >Language Development</h5>
 <p align="left"> 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-<h5  align="left">Application Development</h5>
-<p align="left"> 
-<a href="https://quarkus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/quarkus-icon.svg" alt="quarkus" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 
 <h5 align="left">Cloud</h5>
 <p align="left"> 
