@@ -49,8 +49,8 @@ and also soccer ⚽. <br>
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>
-<a href="https://about.gitlab.com/fr-fr/" target="_blank"<img style="margin: 10px" src="https://github.com/get-icon/geticon/blob/master/icons/gitlab.svg" alt="Gitlab" height="50" /></a>
-<a href="https://kubernetes.io/fr/" target="_blank"<img style="margin: 10px" src="https://github.com/get-icon/geticon/blob/master/icons/kubernetes.svg" alt="Kubernetes" height="50" /></a>
+<a href="https://about.gitlab.com/fr-fr/" target="_blank"><img style="margin: 10px" src="https://github.com/get-icon/geticon/blob/master/icons/gitlab.svg" alt="Gitlab" height="50" /></a>
+<a href="https://kubernetes.io/fr/" target="_blank"><img style="margin: 10px" src="https://github.com/get-icon/geticon/blob/master/icons/kubernetes.svg" alt="Kubernetes" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
