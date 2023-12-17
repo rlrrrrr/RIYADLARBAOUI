@@ -31,7 +31,7 @@ and also soccer ⚽. <br>
 <h6 align="left">Back-End </h6>
 <p align="left"> 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://fastify.dev/ target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/fastify-icon.svg" alt="fastify" width="40" height="40"/> </a>
+<a href="https://fastify.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/fastify-icon.svg" alt="fastify" width="40" height="40"/> </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/nestjs.svg" alt="nest" width="40" height="40"/> </a>
 <a href="https://quarkus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/quarkus-icon.svg" alt="quarkus" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
